@@ -1,3 +1,3 @@
 # Data-science-kaggle
- Learn Data science
+ Learn Data science fundamental
 **************************
